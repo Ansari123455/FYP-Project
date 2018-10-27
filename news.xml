@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<newslist title="Latest News and Events">
+  <news category="green" date="04/23/2017">
+    <headline>FYP Presentation !!</headline>
+    <detail>FYP Presentation will be held on Wednesday. 2nd May , 2017</detail>
+  </news>
+  <news category="red" url="abc" date="5/2/2017">
+    <headline>Evaluation of FYP</headline>
+    <detail>all students are informed to evaluate their project</detail>
+  </news>
+  <news category="red" url="abc" date="5/25/2017">
+    <headline>FYP Completion</headline>
+    <detail>students are informed to submit their working fyp and complete documentation to their corresponding advisor. fina call</detail>
+  </news>
+  <news category="red" url="abcde" date="5/25/2017">
+    <headline>FYP Completion</headline>
+    <detail>students are informed t complete their fy and documentation and submit to their corresonding advisors</detail>
+  </news>
+</newslist>
